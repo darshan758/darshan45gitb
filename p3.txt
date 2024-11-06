@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 acharya institute of technology
+=======
+
+acharya institute
+>>>>>>> 841d7ff (Added line)
